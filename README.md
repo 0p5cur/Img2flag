@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.Img2flag)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0p5cur.Img2flag)
 # Img2flag                                                         
 
 
@@ -6,7 +6,7 @@
 
 1. ```sudo apt install tesseract-ocr libtesseract-dev -y```
 
-2. ```git clone https://github.com/cyberpoul/img2flag.git```
+2. ```git clone https://github.com/0p5cur/img2flag.git```
 
 3. ```cd img2flag```
 
